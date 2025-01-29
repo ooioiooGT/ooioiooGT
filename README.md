@@ -7,9 +7,6 @@ This journey has not only been intellectually rewarding but also personally fulf
 
 Skills: REACT / JS / HTML / CSS / Bash / Python
 
-- 🔭 I’m currently working on https://github.com/ooioiooGT/Learning.git 
-- 🌱 I’m currently learning https://github.com/ooioiooGT/CSE210-GC.git 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ooioiooGT)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]([https://www.youtube.com/channel/ooioioo](https://youtube.com/@ooioioo?si=TQ-Bv2W-WgOL2PYp))  
 
